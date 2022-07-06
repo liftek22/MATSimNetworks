@@ -17,7 +17,7 @@ First, opened Via and refreshed memory regarding how to add data source, and add
 
 Then made an XML file using Notepad using the simple network provided in the slide above. 
 
-```
+```js
 <network>
 <nodes>
 <node id="1" x="2000" y="1000"/>
@@ -32,3 +32,5 @@ Then made an XML file using Notepad using the simple network provided in the sli
 </links>
 </network>
 ```
+
+(Used this link to  recall how to make the codeblock above https://www.freecodecamp.org/news/how-to-format-code-in-markdown/#:~:text=There%20are%20two%20ways%20to,will%20apply%20syntax%20highlighting%20to.)
