@@ -17,7 +17,8 @@ First, opened Via and refreshed memory regarding how to add data source, and add
 
 Then made an XML file using Notepad using the simple network provided in the slide above. 
 
-> <network>
+```
+<network>
 <nodes>
 <node id="1" x="2000" y="1000"/>
 <node id="2" x="4000" y="1500"/>
@@ -30,3 +31,4 @@ Then made an XML file using Notepad using the simple network provided in the sli
 <link id="4" from="3" to="2" length="5000.0" capacity="1800" freespeed="22.22" permlanes="1" modes="car"/>
 </links>
 </network>
+```
