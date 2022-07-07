@@ -37,4 +37,4 @@ Then made an XML file using Notepad using the simple network provided in the sli
 
 So, yesterday,  I just created the network1.xml file and visualized it on VIA.  It gives a V-shape shifted about  90 degrees.  Basically, it represents two road segments. If we match it with the code, MATSim is expecting us to define this shape as three nodes and 2 edges  - but each edge will have a seperate link defined for each direction.  That means,  direction of road section matters. 
 
-*If a road section is two-way, it must be defined by two links
+_If a road section is two-way, it must be defined by two links_
