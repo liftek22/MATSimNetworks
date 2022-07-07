@@ -54,6 +54,7 @@ Also, DOCTYPE could be HTML as shown in example in the link above. Here we have 
 
 - Link length unit is meters
 - Link capacity unit is vehicles/hour
-- Link freespeed unit is meter per second
+- Link freespeed unit is meter/second
 
+Those lengths, do I always have to calculate the Euclidean distance between the actual nodes ( as I know their positions)? 
 
