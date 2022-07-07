@@ -31,3 +31,10 @@ Then made an XML file using Notepad using the simple network provided in the sli
 ```
 
 (Used this link to  recall how to make the codeblock above https://www.freecodecamp.org/news/how-to-format-code-in-markdown/#:~:text=There%20are%20two%20ways%20to,will%20apply%20syntax%20highlighting%20to.)
+
+
+## 7th July 2022
+
+So, yesterday,  I just created the network1.xml file and visualized it on VIA.  It gives a V-shape shifted about  90 degrees.  Basically, it represents two road segments. If we match it with the code, MATSim is expecting us to define this shape as three nodes and 2 edges  - but each edge will have a seperate link defined for each direction.  That means,  direction of road section matters. 
+
+*If a road section is two-way, it must be defined by two links
