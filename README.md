@@ -15,6 +15,8 @@ First, opened Via and refreshed memory regarding how to add data source, and add
 Then made an XML file using Notepad using the simple network provided in the slide above. 
 
 ```js
+<?xml	version="1.0"	encoding="utf-8"?>
+<!DOCTYPE	network	SYSTEM	"http://www.matsim.org/files/dtd/network_v2.dtd">
 <network>
 <nodes>
 <node id="1" x="2000" y="1000"/>
@@ -37,4 +39,21 @@ Then made an XML file using Notepad using the simple network provided in the sli
 
 So, yesterday,  I just created the network1.xml file and visualized it on VIA.  It gives a V-shape shifted about  90 degrees.  Basically, it represents two road segments. If we match it with the code, MATSim is expecting us to define this shape as three nodes and 2 edges  - but each edge will have a seperate link defined for each direction.  That means,  direction of road section matters. 
 
-_If a road section is two-way, it must be defined by two links_
+_If a road section is two-way, it must be defined by two links._
+
+
+
+So what does this 
+``` <?xml version="1.0" encoding="utf-8"?>```
+mean? 
+
+Here's an answer: https://stackoverflow.com/questions/13743250/meaning-of-xml-version-1-0-encoding-utf-8
+
+Also, DOCTYPE could be HTML as shown in example in the link above. Here we have MATSim. 
+
+
+-Link length unit is meters
+-Link capacity unit is vehicles/hour
+-Link freespeed unit is meter per second
+
+
