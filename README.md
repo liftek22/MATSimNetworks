@@ -52,8 +52,8 @@ Here's an answer: https://stackoverflow.com/questions/13743250/meaning-of-xml-ve
 Also, DOCTYPE could be HTML as shown in example in the link above. Here we have MATSim. 
 
 
--Link length unit is meters
--Link capacity unit is vehicles/hour
--Link freespeed unit is meter per second
+- Link length unit is meters
+- Link capacity unit is vehicles/hour
+- Link freespeed unit is meter per second
 
 
