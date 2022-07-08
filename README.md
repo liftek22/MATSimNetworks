@@ -58,3 +58,11 @@ Also, DOCTYPE could be HTML as shown in example in the link above. Here we have 
 
 Those lengths, do I always have to calculate the Euclidean distance between the actual nodes ( as I know their positions)? 
 
+
+## 8th July 2022
+
+Trying find some explanation on the `capperiod` attribute.  The Book and the Manual didn't even have the word.  Google yields a few results but it is mentioned without explanation.  Looks like it's a 'timestep' value. 
+
+Was looking at `permlanes'.  Interestingly one link is one way of course, but it can have several lanes that way. Hence my understanding above (yesterday) is mistaken.  In fact, this network1.xml define a roadway  with two road segment.  One road segment has two lanes in opposing direction traffic flow.  The second road segment actually has three lanes.  Two has traffic in one direction, while the other has traffic in anoter direction. 
+
+How would I have assigned each of the permlane with a different mode? 
