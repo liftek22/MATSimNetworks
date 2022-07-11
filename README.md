@@ -69,3 +69,44 @@ How would I have assigned each of the permlane with a different mode?
 
 By the way, no matter how much you break down a link into permlanes, there will be once capacity per link.  MATSim doesn't differentiate between capacity of lanes in a link. Considers the _n_ number of lanes together for capacity. 
 
+
+## 11th July 2022
+
+Nodes can have attributes. That means, you can define an arbitrary attribute and assign a value to it. 
+
+The example showed a node having the attribute _signalized_ which takes in a boolean variable. And assigned it to _true_
+
+Same thing for links.  The example defined three attributes for a link
+
+An attribute called _name_ which takes in a string variable. Assigned it _Main Street_
+An attribute called _isTunnel_ which takes in a boolean variable. Assigned it _false_
+An attribute called _category_ which takes in an integer variable. Assigned it _3_
+
+
+_Signalized, name, isTunner, Category_ are all just examples and have no meaning in MATSim 
+
+
+```ja
+<?xml	version="1.0"	encoding="utf-8"?>
+<!DOCTYPE	network	SYSTEM	"http://www.matsim.org/files/dtd/network_v2.dtd">
+<network>
+		<nodes>
+				<node id="1" x="2000" y="1000">
+						<attributes>
+								<attribute name="signalized" class="java.lang.Boolean">true</attribute>
+						</attributes>
+				</node>
+				...
+		</nodes>
+		<links capperiod="01:00:00">
+				<link id="1" from="1" to="2" length="3000.0" capacity="1800" freespeed="13.88" permlanes="1" modes="car">
+						<attributes>
+								<attribute name="name" class="java.lang.String">Main	Street</attribute>
+								<attribute name="isTunnel" class="java.lang.Boolean">false</attribute>
+								<attribute name="category" class="java.lang.Integer">3</attribute>
+						</attributes>
+				</link>
+				...
+		</links>
+</network>
+```
