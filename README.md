@@ -88,25 +88,25 @@ _Signalized, name, isTunner, Category_ are all just examples and have no meaning
 
 ```ja
 <?xml	version="1.0"	encoding="utf-8"?>
-<!DOCTYPE	network	SYSTEM	"http://www.matsim.org/files/dtd/network_v2.dtd">
+<!DOCTYPE network SYSTEM"http://www.matsim.org/files/dtd/network_v2.dtd">
 <network>
-		<nodes>
-				<node id="1" x="2000" y="1000">
-						<attributes>
-								<attribute name="signalized" class="java.lang.Boolean">true</attribute>
-						</attributes>
-				</node>
-				...
-		</nodes>
-		<links capperiod="01:00:00">
-				<link id="1" from="1" to="2" length="3000.0" capacity="1800" freespeed="13.88" permlanes="1" modes="car">
-						<attributes>
-								<attribute name="name" class="java.lang.String">Main	Street</attribute>
-								<attribute name="isTunnel" class="java.lang.Boolean">false</attribute>
-								<attribute name="category" class="java.lang.Integer">3</attribute>
-						</attributes>
-				</link>
-				...
-		</links>
+ <nodes>
+  <node id="1" x="2000" y="1000">
+	<attributes>
+	<attribute name="signalized" class="java.lang.Boolean">true</attribute>
+	</attributes>
+  </node>
+	...
+  </nodes>
+ <links capperiod="01:00:00">
+  <link id="1" from="1" to="2" length="3000.0" capacity="1800" freespeed="13.88" permlanes="1" modes="car">
+	<attributes>
+	 <attribute name="name" class="java.lang.String">Main	Street</attribute>
+	 <attribute name="isTunnel" class="java.lang.Boolean">false</attribute>
+	 <attribute name="category" class="java.lang.Integer">3</attribute>
+	</attributes>
+ </link>
+...
+</links>
 </network>
 ```
