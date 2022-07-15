@@ -110,3 +110,14 @@ _Signalized, name, isTunner, Category_ are all just examples and have no meaning
 </links>
 </network>
 ```
+
+
+## 15th July 2022
+
+We can create network.xml files by hand like above, if we have small networks. 
+
+We can also convert data from OpenStreetMap and create and XML file. 
+
+Several things given in the slides. 
+
+But let's Google how to convert OSM data into network.xml file for MATSim. 
