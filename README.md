@@ -121,3 +121,6 @@ We can also convert data from OpenStreetMap and create and XML file.
 Several things given in the slides. 
 
 But let's Google how to convert OSM data into network.xml file for MATSim. 
+
+1) We can extract stuff from OSM and convert to XML using MATSim API
+2) We can download JOSM for OSM and use it to generate an XML file. 
