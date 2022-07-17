@@ -136,6 +136,7 @@ First need to download JOSM.
 Found this site: https://learnosm.org/en/  So nice and friendly! 
 
 1. Read 'Beginner's Guide' Landing page. 
+	Summary:  Information is powerful, can help us make good decisions and improve our lives.  Maps are one way to convey information.  But if I draw a map by hand, it isn't very helpful as only I'll have a copy and it may not have standardized marks.  Making digitals maps allow us to overcome these problems.  OSM is a tool to make and access digital maps. 
 2. 
 
 
