@@ -166,6 +166,12 @@ Map _features_ are represented using _points, lines or areas_.  _points_ are _no
 Added my first point on OSM! Yay!!  Did that for Aksaray! :D   Entered the restaurant's name and several info about it. 
 
 
+
+Signed up for OSM Bangladesh mailing list.  Based on the archive, they seem to have some good activity. 
+
+
+
+
 		
 		
 
