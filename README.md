@@ -145,3 +145,14 @@ Found this site: https://learnosm.org/en/  So nice and friendly!
 	Ok, so I signed up.  Went for Public Domain because I want Bangladesh to be benefitted as much as possible  :heartpulse:
 
 
+Some basic lingo: 
+		
+		
+		An editor is a program or website you can use to edit the map.
+
+		A node is a point on the map, like a single restaurant or a tree.
+
+		A way is a line or area, like a road, stream, lake or building.
+
+		A tag is a bit of data about a node or way, like a restaurant's name or a road's speed limit.
+
