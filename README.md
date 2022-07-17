@@ -155,4 +155,17 @@ Some basic lingo:
 		A way is a line or area, like a road, stream, lake or building.
 
 		A tag is a bit of data about a node or way, like a restaurant's name or a road's speed limit.
+		
+
+Going through the walkthrough
+
+Map _features_ are represented using _points, lines or areas_.  _points_ are _nodes_, _lines_ are _ways_. 
+
+
+
+Added my first point on OSM! Yay!!  Did that for Aksaray! :D   Entered the restaurant's name and several info about it. 
+
+
+		
+		
 
