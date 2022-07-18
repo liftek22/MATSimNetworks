@@ -201,6 +201,12 @@ Signed up for OSM Bangladesh mailing list.  Based on the archive, they seem to h
      
      
 2. Read 'JOSM-Detailed Editing'> 'Editing Field Data'
+3. Read 'JOSM-Detailed Editing'> 'JOSM Editing Tools'
+4. Read 'JOSM-Detailed Editing'> 'Plugins'
 		
+		
+	Added the MATSim Plugin. And Restarted.  MATSim option shows up as well as stuff like capacity etc.  
+	
+Now how to I download as an xml file?
 		
 
