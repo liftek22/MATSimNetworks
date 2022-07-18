@@ -188,7 +188,18 @@ Signed up for OSM Bangladesh mailing list.  Based on the archive, they seem to h
 ## 18th July 2022
 
 1. Read 'JOSM-Detailed Editing'> 'The JOSM editing process'
+ 
     Editing OSM using JOSM. Download -> Edit -> Upload.  Edit using GPS, personal notes, field papers, satellite imagery etc. 
+    
+     Imagery for OSM is provided by Microsoft Bing
+     
+     It doesn't say 'Bing Sat' per tutorial, but rather 'Bing Aerial Imagery'. 
+     
+     
+     Added 'Grand Market Halal' name on downloaded region in OSM. But cannot remove previous tags.  I could use green grocer preset. 
+     Uploaded this change. 
+     
+     
 
 		
 		
