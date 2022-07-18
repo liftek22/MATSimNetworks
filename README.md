@@ -11,7 +11,7 @@ simunto.com/matsim/tutorials/eifer2019/
 
 The series of slides provides different methods to create a network. 
 
-###GOAL A: I will start from the beginning.  Create a basic network.xml file and then visualize it on VIA. 
+### GOAL A: I will start from the beginning.  Create a basic network.xml file and then visualize it on VIA. 
 
 First, opened Via and refreshed memory regarding how to add data source, and add layer to visualize a network. 
 Then made an XML file using Notepad using the simple network provided in the slide above. 
