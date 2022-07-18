@@ -185,7 +185,10 @@ Signed up for OSM Bangladesh mailing list.  Based on the archive, they seem to h
      Deleted it. 
      
 
+## 18th July 2022
 
+1. Read 'JOSM-Detailed Editing'> 'The JOSM editing process'
+    Editing OSM using JOSM. Download -> Edit -> Upload.  Edit using GPS, personal notes, field papers, satellite imagery etc. 
 
 		
 		
