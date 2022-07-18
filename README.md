@@ -200,7 +200,7 @@ Signed up for OSM Bangladesh mailing list.  Based on the archive, they seem to h
      Uploaded this change. 
      
      
-
+2. Read 'JOSM-Detailed Editing'> 'Editing Field Data'
 		
 		
 
