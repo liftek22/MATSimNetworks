@@ -210,3 +210,6 @@ Signed up for OSM Bangladesh mailing list.  Based on the archive, they seem to h
 Now how to I download as an xml file?
 		
 Ah, so you just select the region (you will see all capacity , permlanes etc info), right click on the layer and save as xml file. 
+
+
+And I used that file to visualize the King's Highway area on VIA! :3 
