@@ -6,7 +6,9 @@ Trying to learn how to generate MATSim Networks from scratch
 Farnoosh sent me a nicely curated collection of MATSim resources and pointed out a good starting place. 
 
 It is  slide 177 of the first slide deck of the following link
+
 simunto.com/matsim/tutorials/eifer2019/
+
 The series of slides provides different methods to create a network. 
 
 ###GOAL A: I will start from the beginning.  Create a basic network.xml file and then visualize it on VIA. 
