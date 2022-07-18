@@ -171,6 +171,21 @@ Signed up for OSM Bangladesh mailing list.  Based on the archive, they seem to h
 
 
 
+---- 
+
+ Now starting the JOSM part. 
+ 
+ 
+ 
+1. Read 'JOSM- Detailed Editing' landing page
+2. Read 'JOSM-Detailed Editing'> 'Getting Started with JOSM'
+
+     Downloaded JOSM. 
+     Played around with the sample file. 
+     Deleted it. 
+     
+
+
 
 		
 		
