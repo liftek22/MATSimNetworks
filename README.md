@@ -85,7 +85,7 @@ An attribute called _isTunnel_ which takes in a boolean variable. Assigned it _f
 An attribute called _category_ which takes in an integer variable. Assigned it _3_
 
 
-_Signalized, name, isTunner, Category_ are all just examples and have no meaning in MATSim 
+_Signalized, name, isTunnel, Category_ are all just examples and have no meaning in MATSim 
 
 
 ```ja
