@@ -207,6 +207,8 @@ Signed up for OSM Bangladesh mailing list.  Based on the archive, they seem to h
 4. Read 'JOSM-Detailed Editing'> 'Plugins'
 		
 		
+		
+		
 	Added the MATSim Plugin. And Restarted.  MATSim option shows up as well as stuff like capacity etc.  
 	
 Now how to I download as an xml file?
@@ -215,3 +217,10 @@ Ah, so you just select the region (you will see all capacity , permlanes etc inf
 
 
 And I used that file to visualize the King's Highway area on VIA! :3 
+
+
+##  3rd April 2023 
+
+Resuming this for Bashundhara R/A.  Let us see what we can do in 7 days.  
+
+
